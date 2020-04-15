@@ -1,0 +1,1 @@
+enum Operacoes {SUM, SUB, MULT, DIV, REST}
